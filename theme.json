@@ -1,0 +1,12 @@
+{
+	"name": "Catppuccin Theme",
+	"description": "Catppuccin Theme for Cider Music",
+	"version": "1.0.0",
+	"author": "Monochromish",
+	"github_repo": "Monochromish/Catppuccin-Cider-Music-Theme",
+	"directives": {
+		"windowLayout": {
+			"value": "twopanel"
+		}
+	}
+}
