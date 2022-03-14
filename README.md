@@ -2,6 +2,9 @@
 
 > 😸 Soothing pastel theme for [Cider Music](https://cider.sh)!
 
+![Screenshot](https://user-images.githubusercontent.com/79590499/158200824-538297f2-8400-47ba-ab8c-d3a35984ad4c.png)
+
+
 ## How to install
 
 ### Using `Install` Button
